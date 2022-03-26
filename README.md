@@ -9,8 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Links
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/LiyanNguyen/qr-code-component
+- Live Site URL: https://liyannguyen.github.io/qr-code-component
 
 ### Built with
 - Semantic HTML5 markup
